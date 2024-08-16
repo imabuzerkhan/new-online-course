@@ -39,7 +39,7 @@ export function CardWithForm() {
         <Card key={id} className="w-[150px] bg-[#272E3F] text-white flex flex-col items-center  ">
           <CardHeader>
            
-            <div className="flex items-center my-5 space-x-2">
+            <div className="flex items-center ">
               <div className='text-4xl text-white ' >{icons[icon]}</div> 
             </div>
           </CardHeader>
