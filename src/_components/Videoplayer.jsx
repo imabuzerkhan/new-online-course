@@ -1,6 +1,6 @@
 import React from 'react';
 
-const VideoPlayer = () => {
+ export const VideoPlayer = () => {
   return (
     <div className="relative pb-[56.25%] h-0  ">
       <iframe
@@ -14,4 +14,4 @@ const VideoPlayer = () => {
   );
 };
 
-export default VideoPlayer;
+

@@ -1,6 +1,6 @@
 import React from 'react';
-import VideoPlayer from './Videoplayer';
 import { Button } from '@/components/ui/button';
+import { VideoPlayer } from './Videoplayer';
 
 const Introvideo = () => {
   return (
