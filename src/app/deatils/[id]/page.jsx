@@ -4,7 +4,7 @@ import { useParams } from 'next/navigation';
 import React from 'react';
 import { Freecourse } from '@/Data';
 import Image from 'next/image';
-import VideoPlayer from '@/_components/Videoplayer';
+
 import { Buying } from '@/_components/Buying';
 import { Freecourses } from '@/_components/Freecourse';
 
