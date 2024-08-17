@@ -23,7 +23,7 @@ export function Freecourses() {
       {
 Freecourse.map((courses)=>(
   <Link key={courses.id} href={`/deatils/${courses.id}`} >
-<Card className="  w-[300px] border-none ">
+<Card className="  w-full md:w-[300px] border-none ">
       
         <div key={courses.id} >
           <Image
