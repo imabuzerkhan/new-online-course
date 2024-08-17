@@ -35,7 +35,7 @@ export function Buying() {
 
   return (
     <div className="mb-6 md:sticky z-[999] top-0  ">
-      <Card className=" w-[300px] md:w-[360px] px-4 py-2">
+      <Card className=" w-full  md:w-[360px] px-4 py-2">
         <div key={item.id}>
           <CardTitle className="text-md font-serif my-2">{item.title}</CardTitle>
           <Image
