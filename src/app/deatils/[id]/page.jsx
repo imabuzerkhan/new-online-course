@@ -32,10 +32,10 @@ export default function FreeCourseDetails() {
             width={500}
             height={500}
             className="w-full object-cover h-[170px]"
-          />        <p className='text-sm font-mono text-black py-10 leading-6  '>
+          />        <p className='text-sm md:text-lg text-black py-10 leading-6  '>
           {item.description}
         </p>
-        <div className='bg-gray-100 p-4 rounded-md font-mono '>
+        <div className='bg-gray-100 p-4 rounded-md  '>
           <h3 className='text-xl font-semibold mb-2'>Features:</h3>
           <ul className='list-disc pl-5 mb-4'>
             {item.features.map((feature, index) => (

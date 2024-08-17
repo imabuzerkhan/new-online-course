@@ -36,7 +36,7 @@ export function CardWithForm() {
     <h2 className='font-bold text-3xl my-10 ' >Popular  <span  className='text-red-600' >Categories</span> </h2>
     <div className="grid grid-cols-2 md:grid-cols-4 xl:grid-cols-6 gap-4 mb-8  ">
       {topics.map(({name , icon},  id) => (
-        <Card key={id} className="w-[150px] bg-[#272E3F] text-white flex flex-col items-center  ">
+        <Card key={id} className=" w-full md:w-[150px] bg-[#272E3F] text-white flex flex-col items-center  ">
           <CardHeader>
            
             <div className="flex items-center ">
