@@ -17,7 +17,7 @@ export function PaidCourse() {
   return (
     <>
     
-    <h2 className="font-bold text-3xl my-10 " >Our Paid Courses </h2>
+    <h2 className="font-bold text-3xl my-10 " > Paid <span className="text-red-600" >Courses</span> </h2>
     
     <div className="grid grid-cols-1 sm:grigd-cols-2 lg:grid-cols-3 gap-4  mb-6 " >
       {

@@ -9,7 +9,7 @@ const Introvideo = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2  gap-20 mt-10 mb-20  ">
         <div className="left-text order-1 md:order-none mt-16 lg:mt-0  space-y-4"> 
         
-          <p className="text-lg  ">
+          <p className=" text-base md:text-lg  ">
             This course will take you through a comprehensive journey to master the subject. Whether you re a beginner or looking to brush up on your skills this course has something for everyone.
           </p>
           <p>
