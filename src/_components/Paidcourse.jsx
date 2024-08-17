@@ -24,7 +24,7 @@ export function PaidCourse() {
 PaidCourses.map((courses)=>(
   
   <Link href={`/paidcourse/${courses.id}`} key={courses.id} >
-<Card className=" w-full md:w-[300px] border-none ">
+<Card className=" w-full md:w-[300px]  ">
       
         <div>
           <Image
