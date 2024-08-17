@@ -49,7 +49,7 @@ export const Freecourse = [
   {  
     id : 1,
     "title": "Master in Operating Systems",
-    "description": "This course provides an in-depth exploration of operating systems, the backbone of modern computing. You’ll start with the basics of what an operating system is and its role in managing hardware and software resources. As you progress, you’ll delve into more advanced topics such as process management, where you’ll learn how operating systems handle multitasking and manage CPU resources. Memory management is another critical area covered, where you’ll understand how operating systems allocate and manage memory for different processes. You’ll also explore file systems, understanding how data is stored, retrieved, and managed on various storage devices. The course includes hands-on labs that simulate real-world scenarios, allowing you to apply what you’ve learned in a practical context.",
+    "description": "This course provides an in-depth exploration of operating systems, the backbone of modern computing. You’ll start with the basics of what an operating system is and its role in managing hardware and software resources. As you progress, you’ll delve into more advanced topics such as process management, where you’ll learn how operating systems handle multitasking and manage CPU resources. Memory management is another critical area covered, where you’ll understand how operating systems allocate and manage memory for different processes. You’ll also explore file systems, understanding how data is stored, retrieved, and managed on various storage devices. ",
     "features": [
       "Comprehensive coverage of operating system concepts",
       "In-depth lessons on process and memory management",
@@ -65,7 +65,7 @@ export const Freecourse = [
   {
     id : 2,
     "title": "Learn HTML in 20 Days",
-    "description": "HTML is the foundational language for creating web pages and web applications. This course is designed to take you from a complete beginner to a confident web developer in just 20 days. You’ll start by learning the basic structure of an HTML document and how to use various HTML tags to create headings, paragraphs, links, and images. As you progress, you’ll dive deeper into more complex topics like forms, tables, and semantic elements that improve the accessibility and SEO of your web pages. The course also covers best practices in HTML coding, ensuring that your web pages are both efficient and maintainable. By the end of this course, you’ll be able to build fully functional and responsive web pages that are the building blocks of any modern website.",
+    "description": "HTML is the foundational language for creating web pages and web applications. This course is designed to take you from a complete beginner to a confident web developer in just 20 days. You’ll start by learning the basic structure of an HTML document and how to use various HTML tags to create headings, paragraphs, links, and images. As you progress, you’ll dive deeper into more complex topics like forms, tables, and semantic elements that improve the accessibility and SEO of your web pages. ",
     "features": [
       "Step-by-step guide to HTML basics",
       "Coverage of advanced HTML elements and attributes",
@@ -81,7 +81,7 @@ export const Freecourse = [
   {
     id : 3,
     "title": "Learn CSS in 30 Days",
-    "description": "CSS is the language used to style HTML documents and is essential for creating visually appealing and responsive web pages. In this 30-day course, you’ll learn how to transform plain HTML pages into beautiful, well-designed websites. The course starts with the basics of CSS, including selectors, properties, and values, before moving on to more advanced topics like layouts, positioning, and responsive design. You’ll learn how to use Flexbox and Grid to create complex layouts that adapt to different screen sizes. The course also covers CSS animations, transitions, and how to manage and organize your styles using preprocessors like Sass. By the end of the course, you’ll have a strong understanding of how to create modern, responsive, and interactive web pages.",
+    "description": "CSS is the language used to style HTML documents and is essential for creating visually appealing and responsive web pages. In this 30-day course, you’ll learn how to transform plain HTML pages into beautiful, well-designed websites. The course starts with the basics of CSS, including selectors, properties, and values, before moving on to more advanced topics like layouts, positioning, and responsive design. You’ll learn how to use Flexbox and Grid to create complex layouts that adapt to different screen sizes. ",
     "features": [
       "Comprehensive guide to CSS basics and advanced topics",
       "In-depth coverage of Flexbox and Grid layouts",
@@ -97,7 +97,7 @@ export const Freecourse = [
   {
     id : 4,
     "title": "Master in PHP",
-    "description": "PHP is one of the most popular server-side scripting languages used to develop dynamic web applications. This course takes you from the basics of PHP to mastering advanced concepts, making you a proficient PHP developer. You’ll start with understanding the syntax and basic constructs of PHP, such as variables, loops, and functions. As you progress, you’ll learn about working with forms, handling user input, and connecting to databases using MySQL. The course also covers security best practices, including input validation and protection against common vulnerabilities like SQL injection and XSS attacks. You’ll build real-world projects that reinforce your learning, and by the end of the course, you’ll be capable of creating dynamic and secure web applications using PHP.",
+    "description": "PHP is one of the most popular server-side scripting languages used to develop dynamic web applications. This course takes you from the basics of PHP to mastering advanced concepts, making you a proficient PHP developer. You’ll start with understanding the syntax and basic constructs of PHP, such as variables, loops, and functions. As you progress, you’ll learn about working with forms, handling user input, and connecting to databases using MySQL. ",
     "features": [
       "Detailed coverage of PHP syntax and constructs",
       "Introduction to database connectivity with MySQL",
@@ -113,7 +113,7 @@ export const Freecourse = [
   {
     id : 5,
     "title": "Understand DBMS Concepts",
-    "description": "Database Management Systems (DBMS) are crucial for managing data in any organization. This course provides a thorough understanding of DBMS concepts, from the basics of database design and modeling to advanced topics like normalization, indexing, and transaction management. You’ll start with understanding the relational model and how data is structured in tables. As you progress, you’ll learn about SQL, the standard language for querying and manipulating databases. The course also covers key concepts like database normalization, which ensures that your data is stored efficiently, and transaction management, which ensures data integrity. Practical examples and exercises will help reinforce your learning, preparing you for roles in database administration, data analysis, or software development.",
+    "description": "Database Management Systems (DBMS) are crucial for managing data in any organization. This course provides a thorough understanding of DBMS concepts, from the basics of database design and modeling to advanced topics like normalization, indexing, and transaction management. You’ll start with understanding the relational model and how data is structured in tables. As you progress, you’ll learn about SQL, the standard language for querying and manipulating databases. The course also covers key concepts like database normalization, which ensures that your data is stored efficiently, and transaction management, which ensures data integrity. ",
     "features": [
       "Comprehensive coverage of DBMS fundamentals",
       "In-depth lessons on SQL and relational databases",
@@ -129,7 +129,7 @@ export const Freecourse = [
   {
     id : 6,
     "title": "Learn JavaScript Basics in 20 Days",
-    "description": "JavaScript is the programming language that brings web pages to life, enabling interactive content, dynamic interfaces, and complex user experiences. This 20-day course is designed for beginners who want to learn the fundamentals of JavaScript and start building interactive web applications. You’ll begin with understanding the basic syntax and constructs of JavaScript, including variables, data types, and operators. As you progress, you’ll learn about control structures like loops and conditionals, functions, and how to manipulate the Document Object Model (DOM) to create dynamic web pages. The course also introduces you to event handling, allowing you to create responsive user interfaces. By the end of the course, you’ll have a solid understanding of JavaScript and be ready to take on more advanced topics or start building your own projects.",
+    "description": "JavaScript is the programming language that brings web pages to life, enabling interactive content, dynamic interfaces, and complex user experiences. This 20-day course is designed for beginners who want to learn the fundamentals of JavaScript and start building interactive web applications. You’ll begin with understanding the basic syntax and constructs of JavaScript, including variables, data types, and operators. As you progress, you’ll learn about control structures like loops and conditionals, functions, and how to manipulate the Document Object Model (DOM) to create dynamic web pages.",
     "features": [
       "Comprehensive guide to JavaScript basics",
       "Focus on DOM manipulation and event handling",
@@ -145,7 +145,7 @@ export const Freecourse = [
   {
     id : 7,
     "title": "Introduction to Machine Learning",
-    "description": "Machine Learning is at the forefront of technological innovation, driving advancements in AI, data analysis, and automation. This introductory course provides a solid foundation in machine learning concepts, covering both supervised and unsupervised learning techniques. You’ll start with an understanding of what machine learning is and its applications in various fields. As you progress, you’ll learn about key algorithms like linear regression, decision trees, and clustering. The course also covers how to preprocess data, train models, and evaluate their performance. Practical examples and projects will help you apply your learning, giving you hands-on experience with machine learning tools and frameworks. By the end of the course, you’ll be ready to explore more advanced machine learning topics or start applying these concepts in real-world scenarios.",
+    "description": "Machine Learning is at the forefront of technological innovation, driving advancements in AI, data analysis, and automation. This introductory course provides a solid foundation in machine learning concepts, covering both supervised and unsupervised learning techniques. You’ll start with an understanding of what machine learning is and its applications in various fields. As you progress, you’ll learn about key algorithms like linear regression, decision trees, and clustering. The course also covers how to preprocess data, train models, and evaluate their performance.",
     "features": [
       "Introduction to supervised and unsupervised learning",
       "Coverage of key algorithms like regression and clustering",
@@ -161,7 +161,7 @@ export const Freecourse = [
   {
     id : 8,
     "title": "Get Started with ChatGPT",
-    "description": "ChatGPT is a powerful AI language model that can be used to create a wide range of applications, from chatbots to content generation tools. This course is designed to help you get started with ChatGPT, covering everything from basic usage to building your own applications. You’ll start by learning how ChatGPT works and how to interact with it through simple text prompts. As you progress, you’ll dive into more advanced topics like API integration, allowing you to build applications that can interact with ChatGPT programmatically. The course also covers prompt engineering, a crucial skill for getting the best results from AI models. By the end of the course, you’ll have a solid understanding of how to use ChatGPT effectively and how to integrate it into your projects.",
+    "description": "ChatGPT is a powerful AI language model that can be used to create a wide range of applications, from chatbots to content generation tools. This course is designed to help you get started with ChatGPT, covering everything from basic usage to building your own applications. You’ll start by learning how ChatGPT works and how to interact with it through simple text prompts. As you progress, you’ll dive into more advanced topics like API integration, allowing you to build applications that can interact with ChatGPT programmatically. ",
     "features": [
       "Introduction to ChatGPT and its capabilities",
       "Coverage of API integration and prompt engineering",
@@ -177,7 +177,7 @@ export const Freecourse = [
   {
     id : 9,
     "title": "Master Prompt Engineering",
-    "description": "Prompt engineering is an essential skill for anyone working with AI language models like ChatGPT. This course dives deep into the art of crafting effective prompts that elicit the best responses from AI models. You’ll start by understanding the basic principles of prompt engineering, including how to structure your prompts to achieve specific outcomes. As you progress, you’ll learn about advanced techniques for refining prompts, such as using contextual clues and multi-turn conversations. The course also covers how to evaluate the quality of AI outputs and make adjustments to your prompts as needed. Practical exercises and real-world examples will help you apply what you’ve learned, enabling you to become proficient in this crucial skill. By the end of the course, you’ll be able to create prompts that generate accurate, relevant, and insightful responses from AI models.",
+    "description": "Prompt engineering is an essential skill for anyone working with AI language models like ChatGPT. This course dives deep into the art of crafting effective prompts that elicit the best responses from AI models. You’ll start by understanding the basic principles of prompt engineering, including how to structure your prompts to achieve specific outcomes. As you progress, you’ll learn about advanced techniques for refining prompts, such as using contextual clues and multi-turn conversations. The course also covers how to evaluate the quality of AI outputs and make adjustments to your prompts as needed. ",
     "features": [
       "In-depth coverage of prompt engineering techniques",
       "Focus on structuring and refining prompts",
@@ -210,147 +210,157 @@ export const Freecourse = [
 
 export const PaidCourses = [
   { 
-    id : 1 ,
-    "title": "Advanced JavaScript Mastery",
-    "description": "Dive deep into JavaScript with advanced concepts such as closures, asynchronous programming, and design patterns. Perfect for those looking to master the language.",
-    "image": "https://images.unsplash.com/photo-1667372393096-9c864313e868?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "rating": 4.9,
-    "pricing": "$99",
-    "access": "Lifetime Access",
-    "features": [
+    id: 1,
+    title: "Advanced JavaScript Mastery",
+    description: "Dive deep into JavaScript with advanced concepts such as closures, asynchronous programming, and design patterns. Perfect for those looking to master the language.",
+    image: "https://images.unsplash.com/photo-1667372393096-9c864313e868?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    rating: 4.9,
+    pricing: "$99",
+    access: "Lifetime Access",
+    features: [
       "In-depth video lectures",
       "Interactive coding exercises",
       "Certificate of Completion",
       "24/7 Support"
-    ]
+    ],
+    benefits: "Gain a comprehensive understanding of advanced JavaScript, improve your problem-solving skills, and become proficient in writing clean and efficient code.",
+    conclusion: "This course is ideal for developers who want to elevate their JavaScript skills to the next level and build high-quality web applications."
   },
   { 
-    id : 2 ,
-
-    "title": "Full Stack Web Development ",
-    "description": "An intensive bootcamp covering both front-end and back-end technologies. Learn HTML, CSS, JavaScript, Node.js, and more in this comprehensive course.",
-    "image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "rating": 4.8,
-    "pricing": "$299",
-    "access": "1 Year Access",
-    "features": [
+    id: 2,
+    title: "Full Stack Web Development",
+    description: "An intensive bootcamp covering both front-end and back-end technologies. Learn HTML, CSS, JavaScript, Node.js, and more in this comprehensive course.",
+    image: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    rating: 4.8,
+    pricing: "$299",
+    access: "1 Year Access",
+    features: [
       "Hands-on projects",
       "Real-world case studies",
       "Access to industry experts",
       "Job placement assistance"
-    ]
+    ],
+    benefits: "Become a well-rounded full-stack developer with the ability to build complete web applications from scratch, and increase your employability in the tech industry.",
+    conclusion: "This course is perfect for aspiring developers who want to gain the skills needed to build dynamic web applications and pursue a career in full-stack development."
   },
   { 
-    id : 3 ,
-
-    "title": "Data Science with Python",
-    "description": "Master data science with Python, covering data analysis, visualization, and machine learning techniques. Ideal for those seeking to enter the data science field.",
-    "image": "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGF0YSUyMHNjaWVuY2V8ZW58MHx8MHx8fDA%3D",
-    "rating": 4.7,
-    "pricing": "$149",
-    "access": "6 Months Access",
-    "features": [
+    id: 3,
+    title: "Data Science with Python",
+    description: "Master data science with Python, covering data analysis, visualization, and machine learning techniques. Ideal for those seeking to enter the data science field.",
+    image: "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGF0YSUyMHNjaWVuY2V8ZW58MHx8MHx8fDA%3D",
+    rating: 4.7,
+    pricing: "$149",
+    access: "6 Months Access",
+    features: [
       "Hands-on data projects",
       "Python programming",
       "Advanced analytics techniques",
       "Personalized feedback"
-    ]
+    ],
+    benefits: "Develop strong data science skills using Python, learn to analyze and visualize data effectively, and gain practical experience through hands-on projects.",
+    conclusion: "This course is ideal for individuals who want to break into the data science field and leverage Python to analyze complex datasets."
   },
   { 
-    id : 4 ,
-
-    "title": "Master in Machine Learning",
-    "description": "An introductory course covering the basics of machine learning, including supervised and unsupervised learning, and fundamental algorithms.",
-    "image": "https://plus.unsplash.com/premium_photo-1677094310919-d0361465d3be?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "rating": 4.7,
-    "pricing": "$199",
-    "access": "1 Year Access",
-    "features": [
+    id: 4,
+    title: "Master in Machine Learning",
+    description: "An introductory course covering the basics of machine learning, including supervised and unsupervised learning, and fundamental algorithms.",
+    image: "https://plus.unsplash.com/premium_photo-1677094310919-d0361465d3be?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    rating: 4.7,
+    pricing: "$199",
+    access: "1 Year Access",
+    features: [
       "Comprehensive tutorials",
       "Hands-on projects",
       "Expert support",
       "Certificate of Completion"
-    ]
+    ],
+    benefits: "Learn the fundamentals of machine learning, understand key algorithms, and apply these concepts to real-world problems, boosting your career in AI.",
+    conclusion: "This course is a great starting point for anyone interested in machine learning and AI, providing a solid foundation in the key concepts and techniques."
   },
   { 
-    id : 5 ,
-
-    "title": "Deep Learning Specialization",
-    "description": "Explore deep learning techniques with a focus on neural networks, CNNs, and RNNs. Perfect for those looking to delve into advanced machine learning topics.",
-    "image": "https://images.unsplash.com/photo-1718241905696-cb34c2c07bed?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "rating": 4.9,
-    "pricing": "$349",
-    "access": "Lifetime Access",
-    "features": [
+    id: 5,
+    title: "Deep Learning Specialization",
+    description: "Explore deep learning techniques with a focus on neural networks, CNNs, and RNNs. Perfect for those looking to delve into advanced machine learning topics.",
+    image: "https://images.unsplash.com/photo-1718241905696-cb34c2c07bed?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    rating: 4.9,
+    pricing: "$349",
+    access: "Lifetime Access",
+    features: [
       "Advanced deep learning techniques",
       "Real-world applications",
       "Hands-on assignments",
       "1-on-1 mentorship"
-    ]
+    ],
+    benefits: "Gain expertise in deep learning, work on real-world projects, and receive personalized guidance to help you master complex topics and advance your career.",
+    conclusion: "This specialization is ideal for professionals and enthusiasts looking to deepen their knowledge of deep learning and apply it to cutting-edge AI projects."
   },
   { 
-    id : 6 ,
-
-    "title": "Graphic Design Fundamentals",
-    "description": "Learn the fundamentals of graphic design, including typography, color theory, and layout design. Ideal for beginners and those looking to improve their design skills.",
-    "image": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "rating": 4.6,
-    "pricing": "$129",
-    "access": "6 Months Access",
-    "features": [
+    id: 6,
+    title: "Graphic Design Fundamentals",
+    description: "Learn the fundamentals of graphic design, including typography, color theory, and layout design. Ideal for beginners and those looking to improve their design skills.",
+    image: "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    rating: 4.6,
+    pricing: "$129",
+    access: "6 Months Access",
+    features: [
       "Practical design exercises",
       "Design principles",
       "Software tutorials",
       "Certificate of Completion"
-    ]
+    ],
+    benefits: "Build a strong foundation in graphic design, learn essential tools and techniques, and create professional designs that stand out.",
+    conclusion: "This course is perfect for beginners looking to start a career in graphic design or improve their existing skills."
   },
   { 
-    id : 7 ,
-
-    "title": "Mastering Data Visualization",
-    "description": "Explore advanced data visualization techniques using tools like Tableau and D3.js. Learn to create interactive and impactful visualizations.",
-    "image": "https://plus.unsplash.com/premium_photo-1682310178386-1d20be620733?q=80&w=1512&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "rating": 4.8,
-    "pricing": "$179",
-    "access": "1 Year Access",
-    "features": [
+    id: 7,
+    title: "Mastering Data Visualization",
+    description: "Explore advanced data visualization techniques using tools like Tableau and D3.js. Learn to create interactive and impactful visualizations.",
+    image: "https://plus.unsplash.com/premium_photo-1682310178386-1d20be620733?q=80&w=1512&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    rating: 4.8,
+    pricing: "$179",
+    access: "1 Year Access",
+    features: [
       "Interactive visualization tools",
       "Advanced charting techniques",
       "Real-world data projects",
       "Expert guidance"
-    ]
+    ],
+    benefits: "Learn to present data in a visually appealing and understandable manner, enhance your data storytelling skills, and apply them to real-world scenarios.",
+    conclusion: "This course is ideal for data enthusiasts who want to master the art of data visualization and create impactful, data-driven narratives."
   },
   { 
-    id : 8 ,
-
-    "title": "Advanced Data Analysis with Python",
-    "description": "Dive into advanced data analysis techniques using Python. Learn to handle large datasets, perform complex analyses, and visualize results effectively.",
-    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=1476&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "rating": 4.8,
-    "pricing": "$179",
-    "access": "1 Year Access",
-    "features": [
+    id: 8,
+    title: "Advanced Data Analysis with Python",
+    description: "Dive into advanced data analysis techniques using Python. Learn to handle large datasets, perform complex analyses, and visualize results effectively.",
+    image: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=1476&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    rating: 4.8,
+    pricing: "$179",
+    access: "1 Year Access",
+    features: [
       "Advanced Python techniques",
       "Comprehensive data analysis",
       "Interactive visualizations",
       "Personalized feedback"
-    ]
+    ],
+    benefits: "Enhance your Python skills, learn to analyze and interpret large datasets, and apply these skills to real-world business problems.",
+    conclusion: "This course is perfect for analysts and data scientists who want to advance their Python and data analysis skills to tackle complex data challenges."
   },
-  {     
-    id : 9 ,
-
-    "title": "Complete UI/UX Design Course",
-    "description": "Master UI/UX design principles with a focus on creating user-centered designs. Learn wireframing, prototyping, and user testing in this extensive course.",
-    "image": "https://plus.unsplash.com/premium_photo-1661412938808-a0f7be3c8cf1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "rating": 4.7,
-    "pricing": "$219",
-    "access": "Lifetime Access",
-    "features": [
+  { 
+    id: 9,
+    title: "Complete UI/UX Design Course",
+    description: "Master UI/UX design principles with a focus on creating user-centered designs. Learn wireframing, prototyping, and user testing in this extensive course.",
+    image: "https://plus.unsplash.com/premium_photo-1661412938808-a0f7be3c8cf1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    rating: 4.7,
+    pricing: "$219",
+    access: "Lifetime Access",
+    features: [
       "UI/UX design fundamentals",
       "Prototyping tools",
       "Real-world case studies",
       "Expert guidance"
-    ]
+    ],
+    benefits: "Develop a strong understanding of user experience and interface design, learn to create intuitive and user-friendly designs, and gain practical experience with industry-standard tools.",
+    conclusion: "This course is perfect for aspiring UI/UX designers who want to master the skills needed to create engaging and effective user experiences."
   }
 ];
 
